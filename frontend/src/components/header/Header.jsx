@@ -37,7 +37,7 @@ const Header = () => {
         <div className="h-16 w-full bg-[#fff] shadow-md fixed top-0 left-0 z-50">
             <div className="h-full container px-4 mx-auto flex justify-between items-center">
                 <h1 className="text-2xl font-bold">
-                    <Link to="/">My Goal</Link>
+                    <Link to="/">My Goals</Link>
                 </h1>
 
                 <ul className="flex gap-x-4">
